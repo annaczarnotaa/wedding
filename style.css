@@ -1,0 +1,38 @@
+body
+{
+background-color: #faf0e6;
+color: #1e1b1b;
+font-family: 'Josefin Sans', sans-serif;
+font-size: 20px;
+}
+#container
+	{
+	margin_left: auto;
+	margin_right: auto;
+	width=90%;
+	align: center;
+	padding: 15px;
+	background-color:white;
+	}
+#logo
+	{
+	align: center;
+	margin_left: auto;
+	margin_right: auto;
+	background-color:black;
+	}
+#content
+	{
+	padding: 40px;
+	}
+.square
+	{
+	width: 50%;
+	float:left;
+	}
+#footer
+	{
+	background-color: lightgray;
+	text-align: right;
+	}
+	
